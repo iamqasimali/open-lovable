@@ -32,8 +32,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
-.env.local
 !.env.example
 
 # vercel
@@ -48,7 +46,6 @@ next-env.d.ts
 e2b-template-*
 
 # IDE
-.vscode/
 .idea/
 
 # Temporary files
@@ -57,3 +54,4 @@ e2b-template-*
 repomix-output.txt
 bun.lockb
 .env*.local
+config.bat
