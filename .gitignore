@@ -46,6 +46,7 @@ next-env.d.ts
 e2b-template-*
 
 # IDE
+.vscode/
 .idea/
 
 # Temporary files
@@ -54,4 +55,3 @@ e2b-template-*
 repomix-output.txt
 bun.lockb
 .env*.local
-config.bat
